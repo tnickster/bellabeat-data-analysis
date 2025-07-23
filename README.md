@@ -134,6 +134,10 @@ The final structure includes both raw merged tables and cleaned analytical table
 
 The data presents insights into user behaviour across weight tracking, sleep logging, and physical activity. Out of 33 total users, only 24 logged their sleep and just 8 logged their weight. The logging activity indicates low to upper mid levels of engagement in health tracking habits that could affect the accuracy of trend forecasting and personalized health interventions.
 
+Below is the overview page from the PowerBI dashboard and more examples are included throughout the report. The entire interactive dashboard can be downloaded [here](./Bellabeat.pbix).
+
+<img src="assets/charts/Bellabeat.png" alt="Bellabeat Power BI Dashboard" width="100%">
+
 ---
 
 ## 4. Insights Deep Dive

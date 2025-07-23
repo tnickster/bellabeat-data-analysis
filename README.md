@@ -151,6 +151,7 @@ Bellabeat users averaged **6.29 hours of sleep per night**, but data shows they 
 - **Recommendation:** Introduce guided breathing, wind-down reminders, and screen-time detox features.
 
 ![Sleep Efficiency Line Chart](assets/charts/sleep_efficiency_linechart.png)
+
 *Figure 1: Average hours asleep vs. in bed over time.*
 
 ---
@@ -164,6 +165,7 @@ Approximately **70% of users log daily physical activity**, and **30% are catego
 - **Recommendation:** Offer adaptive fitness programs, milestone badges, and community challenges.
 
 ![User Activity Pie Chart](assets/charts/activity_piechart.png)
+
 *Figure 2: Distribution of user activity types.*
 
 ---
@@ -177,6 +179,7 @@ Analysis of **Metabolic Equivalent of Tasks (METs)** revealed that users are mos
 - **Recommendation:** Schedule push notifications, reminders, or activity nudges aligned with high MET periods.
 
 ![METs Heatmap](assets/charts/average_mets_heatmap.png)
+
 *Figure 3: Average METs by hour and day of the week.*
 
 ---
@@ -190,6 +193,7 @@ Out of 33 users, only **8 logged weight**—representing a participation rate of
 - **Recommendation:** Reframe weight logging as a trend-awareness feature and add streak badges or passive sync options via smart scales.
 
 ![Weight Over Time](assets/charts/weight_over_time.png)
+
 *Figure 4: Weight trends across logged users.*
 
 ---

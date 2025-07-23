@@ -143,66 +143,69 @@ Below is the overview page from the PowerBI dashboard and more examples are incl
 ## 4. Insights Deep Dive
 
 ### Sleep Behaviour
-- Average of 6.29 hours asleep per night.
-- Users spend 1–2 hours awake while in bed.
-- Indicates poor sleep efficiency potentially due to stress, screen time, or irregular routines.
-- Suggestions: app features like wind-down reminders, blue light reduction, or guided breathing.
+
+Bellabeat users averaged **6.29 hours of sleep per night**, but data shows they typically spent **1–2 hours awake while in bed**. This points to potentially low sleep efficiency, which may stem from stress, poor bedtime routines, or extended screen exposure.
+
+- **Average total time in bed exceeds time asleep by up to 2 hours.**
+- Indicates potential for health risk related to poor sleep hygiene.
+- **Recommendation:** Introduce guided breathing, wind-down reminders, and screen-time detox features.
+
+![Sleep Efficiency Line Chart](assets/charts/sleep_efficiency_linechart.png)
+*Figure 1: Average hours asleep vs. in bed over time.*
+
+---
 
 ### Activity Patterns
-- 70% of users are at least daily active; 30% are “Very Active.”
-- Positive signal of product-market fit in the fitness domain.
-- Suggestion: Offer personalized programs, milestone badges, or group challenges.
 
-### Weight Tracking
-- Only 8 out of 33 users (~24%) log weight.
-- Individual logs show fluctuations of 2–4 lbs across weeks.
-- Suggestion: Frame weight logging as a trend-awareness tool, not a goal.
+Approximately **70% of users log daily physical activity**, and **30% are categorized as “Very Active”**, showing high baseline engagement and a strong product-market fit for Bellabeat's fitness features.
+
+- User activity shows consistency across days.
+- **Opportunity exists to expand through personalized fitness plans and gamified goals.**
+- **Recommendation:** Offer adaptive fitness programs, milestone badges, and community challenges.
+
+![User Activity Pie Chart](assets/charts/activity_piechart.png)
+*Figure 2: Distribution of user activity types.*
+
+---
 
 ### METs Analysis
-- Users record highest METs (activity intensity) between 6–7 PM.
-- Weekday peaks: 5–7 PM.
-- Saturday peaks: 1 PM.
-- Sunday: least active day.
-- Suggestion: Align engagement features and reminders with peak activity times.
+
+Analysis of **Metabolic Equivalent of Tasks (METs)** revealed that users are most physically active during the **evening on weekdays (5–7 PM)**, and **early afternoon on weekends**, especially Saturdays.
+
+- Sunday is consistently the **least active day**.
+- Weekday evening METs suggest users are active after work.
+- **Recommendation:** Schedule push notifications, reminders, or activity nudges aligned with high MET periods.
+
+![METs Heatmap](assets/charts/average_mets_heatmap.png)
+*Figure 3: Average METs by hour and day of the week.*
+
+---
+
+### Weight Tracking
+
+Out of 33 users, only **8 logged weight**—representing a participation rate of **~24%**. While the feature is underutilized, the logged data shows **stable trends** with fluctuations of only 2–4 lbs over several weeks.
+
+- Users may view weight logging as optional or less valuable.
+- Logs show consistency, indicating possible maintenance mindset.
+- **Recommendation:** Reframe weight logging as a trend-awareness feature and add streak badges or passive sync options via smart scales.
+
+![Weight Over Time](assets/charts/weight_over_time.png)
+*Figure 4: Weight trends across logged users.*
 
 ---
 
 ## 5. Recommendations
 
-### Overall Marketing Strategy
-- Position Bellabeat as a companion that empowers and improves daily life.
-- Focus on helping working adults (often 9–5) maximize health stress-free.
+Based on user engagement trends and behavioral analysis, the following actions are recommended to enhance Bellabeat’s product impact and user retention:
 
-### Sleep
-- Launch a sleep efficiency tracker.
-- Offer wind-down content (meditation, breathing, detox).
-- Soft prompts for users with < 7 hours of sleep.
+- **Introduce sleep improvement features** such as bedtime wind-down routines, screen-time detox challenges, and guided breathing sessions. With the average user sleeping 6.29 hours and spending 1–2 hours awake in bed, helping users build efficient sleep habits could significantly improve satisfaction and app usage.
 
-### Weight
-- Educate users on trend-based tracking.
-- Gamify with streaks or badges.
-- Explore smart scale integration.
-- Partner for or create Bellabeat-branded healthy recipes.
+- **Gamify weight logging through trends and streaks.** Only 24% of users track weight, indicating low engagement with this feature. By reframing weight logs as a trend-monitoring tool rather than a goal, and rewarding consistent logging with badges, Bellabeat can increase usage frequency without triggering performance anxiety.
 
-### Engagement
-- Deliver messages at optimal times (e.g., 9 AM, 6 AM).
-- A/B test timing for behaviour influence.
+- **Personalize activity engagement with adaptive programs and streak-based nudges.** With 70% of users classified as active and peak METs activity in the 5–7 PM window, Bellabeat should deliver dynamic content (like post-work challenges, hydration reminders, or journal prompts) timed to match user patterns.
 
-### Fitness Engagement
-- Build adaptive fitness programs.
-- Launch monthly challenges and leaderboards.
-- Habit-building prompts based on streaks.
+- **Expand messaging campaigns with A/B-tested delivery times** to optimize behavioral influence. Test hydration and mindfulness reminders sent during morning and evening peaks to drive higher user response rates.
 
-### Product of Choice
-- Bellabeat App
+- **Develop healthy lifestyle integrations through recipes and smart device partnerships.** Offering easy, healthy meals via curated “Bellabeat recipes” or collaborating with smart scale/wearable brands can deepen user ecosystem value.
 
----
-
-## 6. Additional Suggestions / Research (Moving Forward)
-
-- Current dataset lacks demographic diversity.
-- Future research should include:
-  - Age, sex, location, etc.
-  - Healthcare-related data for deeper insights.
-  - Exploration of new product opportunities, including for men.
-  - Better targeted campaigns through segmentation.
+- **Explore segmentation by adding demographic data** to future datasets. Understanding if users are early-career women, midlife professionals, or new moms would allow for micro-targeted feature rollouts and product positioning.

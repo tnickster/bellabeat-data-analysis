@@ -14,13 +14,11 @@ Insights and recommendations are provided on the following key areas:
 
 ---
 
-## 2. Data Structure & Data Wrangling
+## 2. Data Structure & Initial Checks
 
 The Bellabeat dataset is composed of user-generated smart device data across three main areas: activity tracking, sleep behavior, and weight logging. This structured data was merged, cleaned, and transformed into multiple tables to support detailed analysis of user engagement patterns.
 
 The final structure includes both raw merged tables and cleaned analytical tables, as shown below:
-
-## Dataset Overview
 
 <table>
 <tr>

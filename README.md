@@ -132,7 +132,11 @@ The final structure includes both raw merged tables and cleaned analytical table
 
 ## 3. Executive Summary – Overview of Findings
 
-The data presents insights into user behaviour across weight tracking, sleep logging, and physical activity. Out of 33 total users, only 24 logged their sleep and just 8 logged their weight. The logging activity indicates low to upper mid levels of engagement in health tracking habits that could affect the accuracy of trend forecasting and personalized health interventions.
+While Bellabeat users are active, engagement with sleep and weight features remains low. This gap is a missed opportunity to increase app usage and retention. Aligning product features with actual behavior patterns such as peak METs or missed sleep goals, creates a pathway for stronger habit formation and long-term user value.
+
+- Activity engagement is high: 70% of users are active daily.
+- Sleep tracking is used inconsistently: Many users sleep <7 hours and spend 1–2 hours awake in bed.
+- Weight logging adoption is low: Only 24% of users log their weight.
 
 Below is the overview page from the PowerBI dashboard and more examples are included throughout the report. The entire interactive dashboard can be downloaded [here](./Bellabeat.pbix).
 
